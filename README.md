@@ -48,3 +48,6 @@ The default launcher should already choose java 17 for the runtime, so you're fr
 1. Install [fabric](https://fabricmc.net/use/) for 1.18
 2. Drag the .jar into the `~/Library/Application Support/minecraft/mods` folder
 3. Launch fabric loader for 1.18 via the minecraft launcher
+
+
+Developed By TopDogger
